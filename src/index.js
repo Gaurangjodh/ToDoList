@@ -2,7 +2,7 @@
 // import about from './about';
 // import menu from './menu';
 // import contact from './contact';
-// import './styles.css';
+import './style.css';
 // home();
 // function loadButtons(){
 //     const homeBtn = document.querySelector("#home");
